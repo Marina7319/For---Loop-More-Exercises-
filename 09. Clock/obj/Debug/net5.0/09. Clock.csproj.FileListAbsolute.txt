@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\09. Clock\bin\Debug\net5.0\09. Clock.exe
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\09. Clock\bin\Debug\net5.0\09. Clock.deps.json
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\09. Clock\bin\Debug\net5.0\09. Clock.runtimeconfig.json
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\09. Clock\bin\Debug\net5.0\09. Clock.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\09. Clock\bin\Debug\net5.0\09. Clock.dll
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\09. Clock\bin\Debug\net5.0\ref\09. Clock.dll
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\09. Clock\bin\Debug\net5.0\09. Clock.pdb
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\09. Clock\obj\Debug\net5.0\09. Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\09. Clock\obj\Debug\net5.0\09. Clock.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\09. Clock\obj\Debug\net5.0\09. Clock.AssemblyInfo.cs
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\09. Clock\obj\Debug\net5.0\09. Clock.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\09. Clock\obj\Debug\net5.0\09. Clock.dll
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\09. Clock\obj\Debug\net5.0\ref\09. Clock.dll
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\09. Clock\obj\Debug\net5.0\09. Clock.pdb
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\09. Clock\obj\Debug\net5.0\09. Clock.genruntimeconfig.cache

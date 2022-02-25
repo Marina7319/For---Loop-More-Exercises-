@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\03. Logistics\bin\Debug\net5.0\03. Logistics.exe
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\03. Logistics\bin\Debug\net5.0\03. Logistics.deps.json
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\03. Logistics\bin\Debug\net5.0\03. Logistics.runtimeconfig.json
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\03. Logistics\bin\Debug\net5.0\03. Logistics.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\03. Logistics\bin\Debug\net5.0\03. Logistics.dll
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\03. Logistics\bin\Debug\net5.0\ref\03. Logistics.dll
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\03. Logistics\bin\Debug\net5.0\03. Logistics.pdb
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\03. Logistics\obj\Debug\net5.0\03. Logistics.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\03. Logistics\obj\Debug\net5.0\03. Logistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\03. Logistics\obj\Debug\net5.0\03. Logistics.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\03. Logistics\obj\Debug\net5.0\03. Logistics.AssemblyInfo.cs
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\03. Logistics\obj\Debug\net5.0\03. Logistics.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\03. Logistics\obj\Debug\net5.0\03. Logistics.dll
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\03. Logistics\obj\Debug\net5.0\ref\03. Logistics.dll
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\03. Logistics\obj\Debug\net5.0\03. Logistics.pdb
+C:\Users\Marina\source\repos\For-Loop-MoreExercises\03. Logistics\obj\Debug\net5.0\03. Logistics.genruntimeconfig.cache
